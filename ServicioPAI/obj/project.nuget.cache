@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2NjQYdLwUAlKPnnXOaro7g2s/5FukvsgnDUf18bihFcOH60Mtr9nGo4NfwgB8PYRThDeea/rWWnfysxnbK/piw==",
+  "dgSpecHash": "q0dCqGXiFlG9DtSze3FnD68z6lcOCtg/pXYm1q3fm5rmCVGk0m++CqaBC3h9U+XFWp0zqLjTuYq8XZpOp3L1Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\ServicioPAI\\ServicioPAI\\ServicioPAI.csproj",
+  "projectFilePath": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\Servicio_PAI_Misionales\\ServicioPAI\\ServicioPAI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kubit\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Kubit\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

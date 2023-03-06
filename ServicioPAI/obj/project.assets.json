@@ -10060,11 +10060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\ServicioPAI\\ServicioPAI\\ServicioPAI.csproj",
+      "projectUniqueName": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\Servicio_PAI_Misionales\\ServicioPAI\\ServicioPAI.csproj",
       "projectName": "ServicioPAI",
-      "projectPath": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\ServicioPAI\\ServicioPAI\\ServicioPAI.csproj",
+      "projectPath": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\Servicio_PAI_Misionales\\ServicioPAI\\ServicioPAI.csproj",
       "packagesPath": "C:\\Users\\Kubit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\ServicioPAI\\ServicioPAI\\obj\\",
+      "outputPath": "C:\\Users\\Kubit\\Desktop\\SERVICIO PAI\\Servicio_PAI_Misionales\\ServicioPAI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kubit\\AppData\\Roaming\\NuGet\\NuGet.Config",
