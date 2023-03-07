@@ -32,3 +32,13 @@ C:\Users\Kubit\Desktop\SERVICIO PAI\ServicioPAI\ServicioPAI\obj\Debug\net6.0\ref
 C:\Users\Kubit\Desktop\SERVICIO PAI\ServicioPAI\ServicioPAI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Kubit\Desktop\SERVICIO PAI\ServicioPAI\ServicioPAI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Kubit\Desktop\SERVICIO PAI\ServicioPAI\ServicioPAI\obj\Debug\net6.0\ServicioPAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.csproj.AssemblyReference.cache
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.AssemblyInfoInputs.cache
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.AssemblyInfo.cs
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.csproj.CoreCompileInputs.cache
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.dll
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\refint\ServicioPAI.dll
+C:\Users\Kubit\Desktop\SERVICIO PAI\Servicio_PAI_Misionales\ServicioPAI\obj\Debug\net6.0\ServicioPAI.pdb

@@ -24,11 +24,31 @@ namespace ServicioPAI.Controllers
 
         }
 
-        [HttpGet("seleccionarPersonaBusqueda")]
+        [HttpGet("seleccionarPersonaBusquedaAttr")]
 
         public async Task<IEnumerable<PersonaResponseDTO>> seleccionarPersonaBusquedaAttr(SeleccionarPersonaBusquedaAttrRequestDTO requestDTO)
         {
             return personaService.seleccionarPersonaBusquedaAttr(requestDTO);
         }
+
+        [HttpGet("SeleccionarVacunasPersona")]
+        public async Task<VacunaResponseDTO> SeleccionarVacunasPersona(long per_Consecutivo)
+        {
+            return await personaService.seleccionarVacunasPersona(per_Consecutivo);
+        }
+
+        [HttpGet("seleccionarUbicacionPersona")]
+        public async Task<VacunaResponseDTO> seleccionarUbicacionPersona(long per_Consecutivo)
+        {
+            return await personaService.seleccionarUbicacionPersona(per_Consecutivo);
+
+        }
+        [HttpGet("seleccionarAfiliacionPersona")]
+        public async Task<AfiliacionPersonaResponseDTO> seleccionarAfiliacionPersona(long per_Consecutivo)
+        {
+            return await personaService.seleccionarAfiliacionPersona(per_Consecutivo);
+
+        }
+        
     }
 }
