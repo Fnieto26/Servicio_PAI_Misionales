@@ -9,6 +9,7 @@ namespace ServicioPAI.Service.Persona
         Task<VacunaResponseDTO> seleccionarVacunasPersona(long per_Consecutivo);
         Task<VacunaResponseDTO> seleccionarUbicacionPersona(long per_Consecutivo);
         Task<AfiliacionPersonaResponseDTO> seleccionarAfiliacionPersona(long per_Consecutivo);
+        Task<TablaDominioResponseDTO> seleccionarTablaDominio(short id_Tabla);
 
     }
 }

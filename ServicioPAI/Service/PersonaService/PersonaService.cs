@@ -300,5 +300,29 @@ namespace ServicioPAI.Service.Persona
             return oPersonaAfiliacion;
             throw new NotImplementedException();
         }
+
+        public Task<TablaDominioResponseDTO> seleccionarTablaDominio(short id_Tabla)
+        {
+            string cadena = ""; // My.Settings.cadenaPai20
+            TablaDominioEntity cTablaDominio = new TablaDominioEntity();
+
+            SqlParameter[] arParms = new SqlParameter[1];
+            arParms[0] = new SqlParameter("@id_Tabla", 16);
+            arParms[0].Value = id_Tabla;
+
+            DataSet dsTablaDominio = SqlHelper.ExecuteDataset(cadena, "pa_SeleccionarTablasDominio", arParms);
+
+            if (dsTablaDominio != null && dsTablaDominio.Tables[0].Rows.Count > 0)
+            {
+                foreach (DataRow dr in dsTablaDominio.Tables[0].Rows)
+                {
+                    TablaDominioEntity eTablaDominio = new TablaDominioEntity();
+                    eTablaDominio.td_id = dr[0].ToString();
+                    eTablaDominio.td_descripcion = dr[1].ToString();
+                    cTablaDominio.Add(eTablaDominio);
+                }
+            }
+            return cTablaDominio;
+        }
     }
 }

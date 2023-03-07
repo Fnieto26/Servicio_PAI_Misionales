@@ -49,6 +49,12 @@ namespace ServicioPAI.Controllers
             return await personaService.seleccionarAfiliacionPersona(per_Consecutivo);
 
         }
-        
+        [HttpGet("seleccionarTablaDominio")]
+        public async Task<TablaDominioResponseDTO> seleccionarTablaDominio(short id_Tabla)
+        {
+            return await personaService.seleccionarTablaDominio(id_Tabla);
+
+        }
+
     }
 }
